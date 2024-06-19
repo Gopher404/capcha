@@ -2,4 +2,5 @@
 .git
 config/config.json
 test_img
+logs.json
 core/servise/test.png
